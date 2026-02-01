@@ -2,7 +2,9 @@
 # Menu de Restaurant
 
 **Nom de l'étudiant :** Aline Manoukian
+
 **Date :**  2 février 2026 
+
 **Restaurant choisi :** Cosmopolitain
 
 ## Instructions de l'exercice
