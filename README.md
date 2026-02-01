@@ -11,7 +11,7 @@
 
 ## Description
 
-[Décrivez brièvement votre menu et vos choix de design]
+- Pour mon menu, j'ai voulu choisi un rouge foncé pour l'arrière-plan pour une atmosphère de restaurant haut de gamme. Pour le texte des plats et des descriptions, j'ai choisis un blanc un peu jaune qui crée un contraste doux et facile à lire.Les lignes qui séparent chaque section sont un rouge plus foncé pour faire ressortir les éléments des différentes catégories.
 
 ## Choix techniques
 
@@ -21,17 +21,12 @@
 - Secondaire : #F5EBE0
 
 **Police utilisée :**
-
-- Tinos
+- Montserrat
 
 **Décisions CSS notables :**
 
-- [Expliquez vos choix techniques intéressants]
+- J'ai utilisé un effet de hover sur les sections qui rend l'arrière-plan plus foncé quand on passe la souris dessus. J'ai ajouté des lignes <br> pour séparer les sections du menu. Tous les éléments sont alignés au centre.
 
 ## Difficultés rencontrées
 
-[Optionnel : Quels aspects ont été difficiles?]
-
-## Améliorations futures
-
-[Optionnel : Qu'aimeriez-vous ajouter?]
+J'ai eu de la difficulté à mettre certains éléments en gras et d'autres pas.
