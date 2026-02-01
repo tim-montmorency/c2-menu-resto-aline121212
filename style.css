@@ -44,9 +44,10 @@ hr {
 }
 
 h2 {
-     font-size: 32px;
-     font-weight: lighter;
+    font-size: 32px;
+    font-weight: lighter;
 }
+
 p {
     display: inline;
     font-size: 20px;
@@ -58,9 +59,11 @@ p {
     align-items: center;
     line-height: 1.9rem;
 }
-.entrees:hover{
-background-color: rgb(87, 5, 5);
+
+.entrees:hover {
+    background-color: rgb(87, 5, 5);
 }
+
 .plats {
     font-weight: bold;
     text-align: center;
@@ -79,8 +82,8 @@ background-color: rgb(87, 5, 5);
     line-height: 2rem;
 }
 
-.dessert:hover{
-  background-color: rgb(87, 5, 5);
+.dessert:hover {
+    background-color: rgb(87, 5, 5);
 
 }
 
@@ -89,10 +92,12 @@ background-color: rgb(87, 5, 5);
     display: block;
     line-height: 2rem;
 }
-.principaux:hover{
-  background-color: rgb(87, 5, 5);
+
+.principaux:hover {
+    background-color: rgb(87, 5, 5);
 
 }
+
 .bleuets {
-     font-size: 32px;
+    font-size: 32px;
 }
