@@ -21,8 +21,8 @@
 body {
     font-family: "Tinos", serif;
     line-height: 1.6;
-    color: #F5EBE0; 
-    background-color: #880D1E;
+    color: #F5EBE0;
+    background-color: #6E0C19;
 }
 
 /* ========================================
@@ -35,7 +35,64 @@ h1 {
     position: relative;
 }
 
-p  {
+hr {
+    border: none;
+    height: 2px;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #4F000B;
+}
+
+h2 {
+     font-size: 32px;
+     font-weight: lighter;
+}
+p {
     display: inline;
-    margin-left: 26px;
+    font-size: 20px;
+
+}
+
+.entrees {
+    text-align: center;
+    align-items: center;
+    line-height: 1.9rem;
+}
+.entrees:hover{
+background-color: rgb(87, 5, 5);
+}
+.plats {
+    font-weight: bold;
+    text-align: center;
+    line-height: 2rem;
+    font-size: 19px;
+}
+
+.ul {
+    list-style-type: none;
+
+}
+
+.dessert {
+    text-align: center;
+    display: block;
+    line-height: 2rem;
+}
+
+.dessert:hover{
+  background-color: rgb(87, 5, 5);
+
+}
+
+.principaux {
+    text-align: center;
+    display: block;
+    line-height: 2rem;
+}
+.principaux:hover{
+  background-color: rgb(87, 5, 5);
+
+}
+.bleuets {
+     font-size: 32px;
 }
